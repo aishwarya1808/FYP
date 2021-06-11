@@ -114,13 +114,13 @@ s = smtplib.SMTP('smtp.gmail.com', 587)
 s.starttls() 
   
 # Authentication 
-s.login("aishwarya.sripathy@gmail.com", "cloudnine") 
+s.login(<email_id> , <password>) 
   
 # message to be sent 
 message =str1+str2+str4+str3
   
 # sending the mail 
-s.sendmail("aishwarya.sripathy@gmail.com", "aishwarya.sripathy@gmail.com", message) 
+s.sendmail(<from_email_id> , <to_email_id> , message) 
   
 # terminating the session 
 s.quit() 
