@@ -17,9 +17,11 @@ consumption of the devices connected are measured over a period of time and thei
 
 
 **Complete Ontology Generated**
+
 ![image](https://user-images.githubusercontent.com/61593310/121636375-736efc00-caa5-11eb-8063-f9a4ae0aeff9.png)
 
 **SWRL Rules**
+
 ![image](https://user-images.githubusercontent.com/61593310/121636418-85509f00-caa5-11eb-9b47-3cf4721f994b.png)
 
 
